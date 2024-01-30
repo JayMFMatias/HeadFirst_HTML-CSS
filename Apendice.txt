@@ -1,0 +1,38 @@
+HTML ELEMENTS AND THEIR OBJECTIVE
+
+<html></html> All your code and text will be written here.
+
+<head></head> Where the title of your html file goes to.
+
+<title></title>This is where you write the title of the page.
+
+<body></body> This is where the majority of the elements will be displayed in your html page.
+
+<h1/h2/h3/..></h1>Headers are the Titles you give to a determined phrase, they are different in size as you go higher in their number.
+
+<p></p> This is where you will write the majority of your plain text
+
+<a href=""> This is an hyperlink to another html file, you need to identify the file and its location in order to use it.
+
+<img src=""> This is where you display images you want to use, in the same way as the hyperlink, you need to correctly identify their name and location.
+
+<q></q> This defines an inline QUOTE, instead of using ""(brackets) you can tell the browser you are using a quotation instead of just plain text.
+
+<blockquote></blockquote> This is a breakline quote, it forces you to break your current paragraph to make a larger quotation.
+
+<br> This element is called a line breaker, when you use it you are telling the browser to print what comes next in another line.
+ This is also called a void element, since it has no content, same as img and a href.
+
+<li></li> This element is a list item, they are enclosed in another set of elements.
+<ol></ol> This element is an ordered list. Setting up its items in and orderly fashion.
+<ul></ul> This element is an unorderd list, here the is no order to the items you declared.
+
+<code></code> This element is used to display code from a program.
+
+<time></time> This element is used to tell the browser that the content is a date, time or both
+
+<pre></pre> Used on formatted text when you want it displayed exactly how you typed it.
+
+<strong></strong> This element is used as an extra emphasis to mark up a block of text you want.
+<em></em> Used to emphasize a block of text.
+
