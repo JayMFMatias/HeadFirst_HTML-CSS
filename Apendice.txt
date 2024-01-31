@@ -36,3 +36,16 @@ HTML ELEMENTS AND THEIR OBJECTIVE
 <strong></strong> This element is used as an extra emphasis to mark up a block of text you want.
 <em></em> Used to emphasize a block of text.
 
+<img="" alt=""> Alt is an attribute of the img element to describe the image if for some reason it does not show in the browser
+
+<meta> To specify to the browser that you are using Unicode you need this tag in your HTML
+<meta charset=""> This is where you specify the character encoding, example is the "utf-8", it is an encoding in the Unicode family of encodings.
+
+<body bgcolor="" text=""> These atributtes in the body element are meant to change background colour and the text colour.
+<font face =""></fon> This element changes the font used on the plain text enclosed by it.
+<font size =></font> Lets you change the font size of your plain text.
+
+<p align=></p> This atribute lets you align the text to the pretended spot.
+<center></cente> Allows alignment of a block of plain text at the center.
+
+
