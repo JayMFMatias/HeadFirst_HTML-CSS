@@ -48,4 +48,36 @@ HTML ELEMENTS AND THEIR OBJECTIVE
 <p align=></p> This atribute lets you align the text to the pretended spot.
 <center></cente> Allows alignment of a block of plain text at the center.
 
+CSS SELECTORS AND PROPERTIES
 
+<style></style> In between these elements is where you will apply the changes to your website. You can use directly in you HTML or you can
+create another file with .css extension.
+h1,h2,p,...{} In CSS you may choose multiple selectors of what you wish to edit, they can all share traits, but if you want to change a
+specific selector you can use it again in another line, while sharing properties with other it can have the unique ones you apply too.
+
+After creating an external css file, which are called stylesheets, you have to link it to your HTML file.
+<link type="text/css" rel="stylesheet" href="file.css"> This is how you link your CSS to your HTML. The link element links external information
+The type attribute gives the information of what type the link is.  REL attribute specifies the relationship between the HTML file and what you are
+linking to. Since we are linking a stylesheet, the value shall be "stylesheet". Href specifies where the file is located.
+
+After changing the style of a determined element you will also alter the elements nesting in it, this is called inheritance.
+
+
+class="" This is the class atribute, it lets you distinguish between blocks of code that have the same element.
+
+SOME CSS PROPERTIES:
+
+color: used to set the font color of text elements;
+top: controls the position of the top of the element;
+text-align: Aligns your text to left, right or center;
+letter-spacing: Lets you space the letters in your text.
+background-colo: Lets you change the color in the background for that specific element;
+border: Puts a border around the element. It can be solid, ridged, dotted, ...;
+font-style: Changes the style of your text;
+font-weight: Changes your text to make it bold;
+font-size: Makes the text bigger or smaller;
+background-image: Changes the background of that element to a image that you link to it;
+left: tells the element how to position its left side;
+list-style: Lets you change how list items look in a list;
+line-height: Sets space between lines in a text element;
+padding: Used when space between the edge of an elent and its content is needed.
