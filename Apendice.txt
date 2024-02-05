@@ -81,3 +81,13 @@ left: tells the element how to position its left side;
 list-style: Lets you change how list items look in a list;
 line-height: Sets space between lines in a text element;
 padding: Used when space between the edge of an elent and its content is needed.
+border-styles: There are eight border styles:
+    solid - just like how it sounds, a solid border;
+    dotted - the border lines are become dotted lines;
+    double - uses two lines;
+    dash - set of dashes around the border;
+    groove - becomes like a groove in a page;
+    inset - the line "sinks" in the page;
+    outset - the line emerges from the page;
+    ridge - looks like a raised ridge on the page;
+border-radius: the radius of the border creates round edges where it is specified, either top,left,right,bottom, or a combination of these;
