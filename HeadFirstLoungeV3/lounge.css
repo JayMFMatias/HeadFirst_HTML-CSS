@@ -4,16 +4,13 @@ p.introduction{text-align: left;}
 h1,h2{color: #007e7e;}
 h1{font-size: 150%;}
 h2{font-size: 130%;}
-.guarantee{border-color:#007e7e; border-width: 1px;border-style: groove;
+#guarantee{border-color:#007e7e; border-width: 1px;border-style: inset;
 background-color:  #a7cece; padding:25px;margin:30px;margin-right: 250px;
 font-family:'Times New Roman', Times, serif; font-style: italic; color:#444444;line-height: 1.9em; border-width: 3px;
 background-image: url("images/background.gif");background-repeat: no-repeat;background-position: top left;
-border-top-left-radius: 1em; border-bottom-left-radius: 1em;}
+border-bottom-left-radius: 1em;border-top-right-radius: 1em;
+border-color: white;}
 
-em{font-family: serif;}
-a{font-size:large;}
-p.greenTea{color:green;}
-p.raspBerry{color:aqua;}
-p.blueBerry{color:purple;}
-p.cranBerry{color:red;}
-
+.lemonBreeze{color: #675101}
+.chaiChiller{color:brown}
+.blackBrain{color:black}

@@ -63,7 +63,8 @@ linking to. Since we are linking a stylesheet, the value shall be "stylesheet". 
 After changing the style of a determined element you will also alter the elements nesting in it, this is called inheritance.
 
 
-class="" This is the class atribute, it lets you distinguish between blocks of code that have the same element.
+class="" This is the class attribute, it lets you distinguish between blocks of code that have the same element.
+id="" This is the id attribute, its typically used when you have only one type of element you want to edit like a footer paragraph f.ex..
 
 SOME CSS PROPERTIES:
 
